@@ -1,0 +1,18 @@
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.pdf
+# VS Code settings
+.vscode/
+# Python cache
+__pycache__/
+# Generated PDFs (if you want to keep compiled version, remove this line)
