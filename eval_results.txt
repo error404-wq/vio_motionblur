@@ -1,0 +1,7 @@
+=== HELD-OUT SET RESULTS ===
+Correlation: +1.000
+Seq0: path=0.19997, inv=319168
+Seq1: path=0.25847, inv=434003
+Seq2: path=0.32097, inv=542371
+Seq3: path=0.38454, inv=598265
+Seq4: path=0.44551, inv=661968
