@@ -1,7 +1,8 @@
 === HELD-OUT SET RESULTS ===
-Correlation: +1.000
-Seq0: path=0.19997, inv=319168
-Seq1: path=0.25847, inv=434003
-Seq2: path=0.32097, inv=542371
-Seq3: path=0.38454, inv=598265
-Seq4: path=0.44551, inv=661968
+Raw Correlation: +0.100
+Normalized Correlation: +0.707
+Seq0: path=0.59996, raw_inv=113303, norm_inv=3.44263
+Seq1: path=0.71995, raw_inv=2821538, norm_inv=20.00000
+Seq2: path=0.83994, raw_inv=2956283, norm_inv=20.00000
+Seq3: path=0.95993, raw_inv=829496, norm_inv=20.00000
+Seq4: path=1.07992, raw_inv=661881, norm_inv=20.00000
